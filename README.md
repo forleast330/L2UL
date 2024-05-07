@@ -7,6 +7,6 @@
 The codes for L2UL.
 
 ## Run
-The file  _main.py_ shows an example of running KDC.
+The file  _main.py_ shows an example of running L2UL.
 
 
