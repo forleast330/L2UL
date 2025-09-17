@@ -1,7 +1,7 @@
 # L2UL
 
 # Learn to Unlearn.
-<img src="L2UL.png" width = "60%" />
+<img src="method_l2ul.png" width = "60%" />
 
 ## Codes
 The codes for L2UL.
